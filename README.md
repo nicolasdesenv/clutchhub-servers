@@ -1,2 +1,2 @@
 # clutchhub-servers
-Server for ClutchHub plataform
+Servers Ip's for ClutchHub plataform
