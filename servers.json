@@ -44,6 +44,9 @@
   { "ip": "177.54.146.88:27220", "game": "CSGO", "type": "Corrida Armada", "owner": "FireGames" },
   { "ip": "103.14.27.133:27059", "game": "CSGO", "type": "Danger Zone", "owner": "FireGames" },
   { "ip": "177.54.146.88:27403", "game": "CSGO", "type": "Mata Pombo", "owner": "FireGames" },
+  { "ip": "ip.savageservidores.com:27037", "game": "CSGO", "type": "10x10 Casual", "owner": "Savage" },
+  { "ip": "ip.savageservidores.com:27055", "game": "CSGO", "type": "10x10 Casual", "owner": "Savage" },
+  { "ip": "ip.savageservidores.com:27001", "game": "CSGO", "type": "AWP Map", "owner": "Savage" },
   { "ip": "177.54.150.62:27200", "game": "CS2", "type": "10x10 Personagens", "owner": "FireGames" },
   { "ip": "177.54.146.88:27410", "game": "CS2", "type": "10x10 Fun Maps", "owner": "FireGames" },
   { "ip": "162.43.190.227:27407", "game": "CS2", "type": "10x10 Minecraft", "owner": "FireGames" },
@@ -54,8 +57,5 @@
   { "ip": "103.14.27.41:27400", "game": "CS2", "type": "PropHunt", "owner": "FireGames" },
   { "ip": "103.14.27.41:27502", "game": "CS2", "type": "Super Poderes 01", "owner": "FireGames" },
   { "ip": "103.14.27.41:27503", "game": "CS2", "type": "Super Poderes 02", "owner": "FireGames" },
-  { "ip": "103.14.27.41:27500", "game": "CS2", "type": "Super Poderes 03", "owner": "FireGames" },
-  { "ip": "ip.savageservidores.com:27037", "game": "CSGO", "type": "10x10 Casual", "owner": "Savage" },
-  { "ip": "ip.savageservidores.com:27055", "game": "CSGO", "type": "10x10 Casual", "owner": "Savage" },
-  { "ip": "ip.savageservidores.com:27001", "game": "CSGO", "type": "AWP Map", "owner": "Savage" }
+  { "ip": "103.14.27.41:27500", "game": "CS2", "type": "Super Poderes 03", "owner": "FireGames" }
 ]
