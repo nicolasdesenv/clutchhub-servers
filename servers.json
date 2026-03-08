@@ -55,7 +55,5 @@
   { "ip": "103.14.27.41:27502", "game": "CS2", "type": "Super Poderes 01", "owner": "FireGames" },
   { "ip": "103.14.27.41:27503", "game": "CS2", "type": "Super Poderes 02", "owner": "FireGames" },
   { "ip": "103.14.27.41:27500", "game": "CS2", "type": "Super Poderes 03", "owner": "FireGames" }
-  { "ip": "131.196.199.250:27037", "game": "CSGO", "type": "10x10 Casual", "owner": "Savage" },
-  { "ip": "131.196.199.250:27055", "game": "CSGO", "type": "10x10 Casual", "owner": "Savage" },
-  { "ip": "131.196.199.250:27001", "game": "CSGO", "type": "AWP Map", "owner": "Savage" }
+  
 ]
