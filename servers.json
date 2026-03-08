@@ -55,7 +55,7 @@
   { "ip": "103.14.27.41:27502", "game": "CS2", "type": "Super Poderes 01", "owner": "FireGames" },
   { "ip": "103.14.27.41:27503", "game": "CS2", "type": "Super Poderes 02", "owner": "FireGames" },
   { "ip": "103.14.27.41:27500", "game": "CS2", "type": "Super Poderes 03", "owner": "FireGames" },
-  { "ip": "ip.savageservidores.com:27037", "game": "CS2", "type": "10x10 Casual", "owner": "Savage" },
-  { "ip": "ip.savageservidores.com:27055", "game": "CS2", "type": "10x10 Casual", "owner": "Savage" },
-  { "ip": "ip.savageservidores.com:27001", "game": "CS2", "type": "AWP Map", "owner": "Savage" }
+  { "ip": "ip.savageservidores.com:27037", "game": "CSGO", "type": "10x10 Casual", "owner": "Savage" },
+  { "ip": "ip.savageservidores.com:27055", "game": "CSGO", "type": "10x10 Casual", "owner": "Savage" },
+  { "ip": "ip.savageservidores.com:27001", "game": "CSGO", "type": "AWP Map", "owner": "Savage" }
 ]
