@@ -35,5 +35,16 @@
   { "ip": "103.14.27.95:27027", "game": "CSGO", "type": "5x5", "owner": "FireGames" },
   { "ip": "103.14.27.133:27040", "game": "CSGO", "type": "5x5", "owner": "FireGames" },
   { "ip": "103.14.27.133:27041", "game": "CSGO", "type": "5x5", "owner": "FireGames" },
-  { "ip": "103.14.27.133:27042", "game": "CSGO", "type": "5x5", "owner": "FireGames" }
+  { "ip": "103.14.27.133:27042", "game": "CSGO", "type": "5x5", "owner": "FireGames" },
+  { "ip": "177.54.150.62:27200", "game": "CS2", "type": "10x10 Personagens", "owner": "FireGames" },
+  { "ip": "177.54.146.88:27410", "game": "CS2", "type": "10x10 Fun Maps", "owner": "FireGames" },
+  { "ip": "162.43.190.227:27407", "game": "CS2", "type": "10x10 Minecraft", "owner": "FireGames" },
+  { "ip": "162.43.190.227:27400", "game": "CS2", "type": "Arena 1v1", "owner": "FireGames" },
+  { "ip": "103.14.27.133:27502", "game": "CS2", "type": "AWP", "owner": "FireGames" },
+  { "ip": "162.43.190.227:27408", "game": "CS2", "type": "Port Maps", "owner": "FireGames" },
+  { "ip": "162.43.190.227:27403", "game": "CS2", "type": "Deathrun", "owner": "FireGames" },
+  { "ip": "103.14.27.41:27400", "game": "CS2", "type": "PropHunt", "owner": "FireGames" },
+  { "ip": "103.14.27.41:27502", "game": "CS2", "type": "Super Poderes 01", "owner": "FireGames" },
+  { "ip": "103.14.27.41:27503", "game": "CS2", "type": "Super Poderes 02", "owner": "FireGames" },
+  { "ip": "103.14.27.41:27500", "game": "CS2", "type": "Super Poderes 03", "owner": "FireGames" }
 ]
